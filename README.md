@@ -10,6 +10,7 @@
 - git branch -c - Creates a new Branch
 - git checkout - Switches to the new Branch
 - git checkout -b - Creates a new branch and checks out
+- git merge - Merges the changes between the different branches
 
 
 ## Practicing the -m command
