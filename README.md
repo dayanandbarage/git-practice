@@ -12,6 +12,9 @@
 - git branch -c - Creates a new Branch
 - git checkout - Switches to the new Branch
 - git checkout -b - Creates a new branch and checks out
+- git stash - Stashes the changes and allows to checkout other branches
+- git stash list - lists all the stashed changes
+- git stash pop - pulls the changes into the current branch, the stash list remains
 
 >>>>>>> Stashed changes
 
