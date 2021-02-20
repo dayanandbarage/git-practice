@@ -9,6 +9,8 @@
 - git log - Shows history of commits in the current project
 - git branch -c - Creates a new Branch
 - git checkout - Switches to the new Branch
+- git checkout -b - Creates a new branch and checks out
+
 
 ## Practicing the -m command
 
