@@ -9,3 +9,9 @@
 - git log - Shows history of commits in the current project
 
 ## Practicing the -m command
+
+## Commit Messages are important, they will show you what happened exactly.
+
+- First line should be clear, concise and accurate
+- Use proper spelling, grammar, punctuations.
+- Don't end the message with "."
