@@ -15,7 +15,8 @@
 - git stash pop - pulls the changes into the current branch, the stash list remains
 - git log --oneline --all - shows all the branches commits in oneline
 - git merge - Merges the changes between the different branches
-
+- git remote add - to add remote repository
+- git push - to push the details
 ## Practicing the -m command
 
 ## Commit Messages are important, they will show you what happened exactly.
