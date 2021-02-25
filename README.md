@@ -14,6 +14,7 @@
 - git stash list - lists all the stashed changes
 - git stash pop - pulls the changes into the current branch, the stash list remains
 - git log --oneline --all - shows all the branches commits in oneline
+- git merge - Merges the changes between the different branches
 
 ## Practicing the -m command
 
