@@ -18,6 +18,7 @@
 - git remote add - to add remote repository
 - git push - to push the details
 - git pull - to fetch and merge the details
+- git- push - testing this command
 ## Practicing the -m command
 
 ## Commit Messages are important, they will show you what happened exactly.
